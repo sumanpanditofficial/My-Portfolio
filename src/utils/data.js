@@ -3,116 +3,116 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Design",
-    projects: 76,
+    name: "Websites",
+    projects: " 5+ Projects",
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
-    name: "Mobile App Design",
-    projects: 63,
+    name: "Leet Code",
+    projects: "100+ Question Solved",
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
-    projects: 47,
+    name: "Technology Stacks",
+    projects: "20+ Expertise",
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "I'm a full-stack developer with a deep understanding of Data Structures and Algorithms (DSA) and a strong foundation in Object-Oriented Programming (OOP).",
+  "I bring a wealth of experience in building end-to-end web applications. Leveraging my expertise in Node.js, React, and various backend and frontend tools, I create seamless and responsive web experiences.",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Self-Employed",
+    tenure: "2022 -  2024",
+    role: "Student",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "I'm currently a student at KIIT University, where I started in 2021 and am expected to complete my studies in mid-2025. During my time here, I've been actively learning various technologies as part of my college curriculum.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Learned Technologies",
+    tenure: "2022 -  2024",
+    role: "Full-Stack Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "I'm a full-stack developer with expertise in both front-end (how things look) and back-end (behind-the-scenes). I've learned technologies like React, Node, Express, SQL, MongoDB, APIs, Git, and GitHub for version control.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "LeetCode",
+    tenure: "2022 -  2024",
+    role: "Programming",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "I've also done programming on platforms like LeetCode and Geeks for Geeks, where I've focused on Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). I've successfully solved over 100 questions, building a strong foundation in problem-solving and coding.",
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring. ",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring. ",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring.",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring. ",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Person",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Fantastic, Outstanding, Impressive, Wonderful, Excellent, Superb, Terrific, Marvelous, Exceptional, Remarkable, Splendid, Fabulous, Stellar, Magnificent, Brilliant, Splendiferous, Grand, Superlative, Top-notch, Outstanding, Exceptional, Awe-inspiring. ",
     img: "./people2.png",
   },
 ];
